@@ -1,0 +1,13 @@
+Cost,MedID,Medicine Name,Quantity,custID
+40.0,0.0,Panadol,2.0,1.0
+40.0,0.0,Panadol,2.0,1.0
+40.0,0.0,Panadol,2.0,14.0
+40.0,0.0,Panadol,2.0,1.0
+40.0,0.0,Panadol,2.0,1.0
+50.0,71.0,Domperidone,1.0,14.0
+12.0,69.0,Cipro,1.0,1.0
+12.0,59.0,Drotaverine,1.0,1.0
+12.0,78.0,Tylenol,1.0,1.0
+11.0,65.0,Tindamax,2.0,1.0
+66.0,65.0,Tindamax,2.0,2.0
+20.0,78.0,Tylenol,1.0,1.0
